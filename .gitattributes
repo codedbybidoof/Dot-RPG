@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Shader or TMP 등의 통계 제외
+Assets/TextMesh Pro/** linguist-vendored
